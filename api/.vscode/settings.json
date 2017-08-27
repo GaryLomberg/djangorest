@@ -1,0 +1,7 @@
+// settings.json (workspace-specific one is probably best)
+{
+    // ...
+    "python.linting.pylintPath": "/home/gary/venv/bin/pylint",
+    "python.pythonPath": "/home/gary/venv/bin/python3"
+    // ...
+}
